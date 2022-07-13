@@ -1,0 +1,6 @@
+Read the three numbers from user as weights of 3 people
+Assign that three values to three variables
+Check which number is more
+Then that person having heaviest weight 
+If two numbers are same and greater then other number then printf that two persons having same weight
+If three persons are having same weight then print all are having same weight
