@@ -1,0 +1,7 @@
+Read the input as celsius or fahrenheit from user
+if user entered celsius then convert that celsius into fahrenheit
+fahrenheit=((celsius*9)/5)+32
+print fahrenheit
+if user entered fahrenheit then convert that celsius into celsius
+celsius=((fahrenheit-32)*5)/9
+print celsius
