@@ -1,0 +1,4 @@
+Read the 2 digit number as a input
+Convert that 2 digit number into binary form
+binary=(number<<bit)&1
+Print the binary
