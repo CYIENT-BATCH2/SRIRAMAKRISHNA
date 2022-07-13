@@ -1,0 +1,4 @@
+Read the input from user
+By using the conditional operator check the input is alphabet or non alphabet
+if input is alphabet then print alphabet
+if input is not a alphabet then print not alphabet
