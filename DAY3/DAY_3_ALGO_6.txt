@@ -1,0 +1,5 @@
+Read the hex value from keyboard and store that hex value in variable
+Enter the right shit bit value
+Right Shift that hex number by  bit value and store the result in an another variable
+result=(hexnumber>>bitvalue)
+print the result
