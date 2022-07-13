@@ -1,0 +1,8 @@
+Read 10 digit number as a input from user
+Check entered number is 10 digit number or not
+if number is 10 digit number then reverse the number
+Strore that reversed number in a variable
+Check the input number is equal to reversed number
+if both input number and reversed numbers are same print palindrome
+else
+print not palindrome
