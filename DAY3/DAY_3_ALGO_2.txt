@@ -1,0 +1,5 @@
+Enter 5 digit number from the keyboard
+Take the first and second last digit by using mod operator
+Add the first and last digit and store the result
+print the result
+ 
