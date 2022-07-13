@@ -1,0 +1,6 @@
+Read the decimal number=204 from keyboard
+Convert that decimal number to hexa decimal number by using format specifier %X
+Convert that decimal number to binary number 
+binary=(numbar<<bitpos)&1
+repeat the above condition using goto by changing bit position from 31 to 0
+print the binary 
