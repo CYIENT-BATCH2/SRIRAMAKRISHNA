@@ -1,0 +1,19 @@
+a)Read the hex value from keyboard
+ Convert hex value to binary value
+ Repeat the following steps to get binary value
+ rem=bin%10 and 
+ hexa=hexa+rem*i
+ i=i*2
+ bin/=10
+b)Read the binary from the keyboard
+ convert the binary value to hexa value
+c)Read the hexa value from keyboard
+ Convert that hex value into decimal using format specifier %d
+ Convert hex value to binary and print the binary value
+d)Read the binary value from keyboard
+Convert the binary to decimal and print the decimal value
+Convert the binary to hex value and print the value value
+
+    
+
+    
