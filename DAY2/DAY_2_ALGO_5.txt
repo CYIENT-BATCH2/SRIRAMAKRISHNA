@@ -1,0 +1,4 @@
+Read the number that is in between 1 to 26
+Assign that numbers two a variable like A=1,B=2... so on
+number=number+64
+Than print number using %c format specifier
