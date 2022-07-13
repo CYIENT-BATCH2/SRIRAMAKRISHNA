@@ -1,0 +1,9 @@
+Take a 6 digit number as a input from user
+Store that number in a variable
+check any digit in that number having zero or not
+if there is no zeros in it digits then by using goto statement reverse the number
+loop:  remainder=n%10;
+       reverse=reverse * 10 + remainder; 
+       n=n/10;
+       goto loop;
+print the reverse
