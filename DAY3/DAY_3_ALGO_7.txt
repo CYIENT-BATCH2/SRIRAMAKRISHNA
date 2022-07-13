@@ -1,0 +1,7 @@
+Read the birth year and month from user
+Calculate the age based present year and month and birthyear and month
+if birthmonth<=presentmonth
+year=presentyear-birthyear and month=presentmonth-birthmonth
+if birthmonth>presentmonth
+year=presentyear-birthyear-1 and month=(12-birthmonth)+presentmonth
+After calulating the age print the age
