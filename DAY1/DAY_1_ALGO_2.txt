@@ -1,0 +1,5 @@
+Read the character input from user
+Check that character is vowel(a,e,i,o,u) or not
+if it is vowel, then print 'vowel'
+Else
+print consonant
