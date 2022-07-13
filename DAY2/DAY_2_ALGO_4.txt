@@ -1,0 +1,4 @@
+Read the input as total number of lottery tickets from the user
+Check the lottery tickets have 3 number in them
+Count the tickets have 3 number in them
+print the count
