@@ -1,0 +1,4 @@
+Take the 1 to 9 roll numbers with two consecutive roll number are swapped as a input from user
+Sort that all the roll numbers in ascending order
+Check all are roll numbers are in ascending order
+Print the all the roll numbers
