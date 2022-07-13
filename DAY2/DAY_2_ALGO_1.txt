@@ -1,0 +1,9 @@
+1)Take the phone number as a input from the user
+2)Take a variable and assign the phone number to that variable
+3)Take one another variable as a sum=0
+4)By using 'mod' operator take the last digit of the phone number
+res=phone number%10
+5)Add that last digit to the sum and divide the phone number by 10
+sum=sum+rem
+6)Repeat the steps 4 and 5 until phone number become 0  
+7)Print the sum
