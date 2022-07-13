@@ -1,0 +1,8 @@
+Read 5 one-digit numbers as a inputs from user
+Assign that numbers to 5 balls(i.e a,b,c,d,e balls)
+Check the number is even or odd
+number/2 is equal to zero then it is even
+number/2 is not equal to zero then it is odd
+if number is a even print the ball is assinged to even number
+else
+the ball is assigned to odd number
