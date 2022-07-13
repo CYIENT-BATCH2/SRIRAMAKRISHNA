@@ -1,0 +1,9 @@
+Read the 8 integers and 7 float values from user
+Calculate the sum and average and mean of integers
+Print sum and average and mean values of integers
+Calculate the sum and average and mean of float values
+Print sum and average and mean values of float values
+Divide sum of integers by sum of float values and print the result
+Divide average of integers by average of float values and print the result
+Convert all float values to integers and print the integers 
+ 
