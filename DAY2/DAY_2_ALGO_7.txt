@@ -1,0 +1,6 @@
+Read the inverval to print the number of leap years in between the interval
+Check the leap years in between that interval
+(year%4==0)&&(year%100!=0)||(year%400==0)
+if above condition is true then it is leap year
+Count the total number of leap years
+print count
