@@ -1,0 +1,4 @@
+Read the input as a number of students from the user
+Find the total number of hankshakes
+handshacks=students*(students-1)
+print the handshacks
