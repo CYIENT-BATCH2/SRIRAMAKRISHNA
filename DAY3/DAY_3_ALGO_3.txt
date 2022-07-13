@@ -1,0 +1,5 @@
+Take a 3 digit number as a input from keyboard
+Store that number in a variable
+Take the last digit of number one digit by one digit using mod operator
+res=res*10+rem
+print the result that number is reverse of original number
