@@ -1,0 +1,5 @@
+Read the input from user
+Check that number is multiple of 11 or if it is one more than a multiple of 11
+If the number is multiple of 11 or one more than multiple of 11
+Print it is a special number
+Else, print it is not a special number
