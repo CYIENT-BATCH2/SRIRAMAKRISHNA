@@ -1,0 +1,4 @@
+Read the two inputs from the user
+Strore the two inputs in two variables a and b
+By using third variable c swap the two numbers
+print the values of a and b
