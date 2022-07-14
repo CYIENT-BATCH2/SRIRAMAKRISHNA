@@ -1,0 +1,4 @@
+Take the two numbers as a input from keyboard
+Store that two numbers in two variables
+if number a is greater than b then print a is biggest
+if number b is greater than a then print b is biggest
