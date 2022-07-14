@@ -1,0 +1,4 @@
+Take the number as a input from keyboard
+Store that numbers in a variables a
+if the number is even then print a is even number
+if the number is odd then print a is odd number
