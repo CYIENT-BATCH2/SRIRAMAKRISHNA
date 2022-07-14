@@ -1,0 +1,5 @@
+Take the number as a input from keyboard
+Store that numbers in a variables a
+if the number is positive then print a is positive number
+if the number is negative then print a is negative number
+if the number is zero print the number is neither positive nor negative
