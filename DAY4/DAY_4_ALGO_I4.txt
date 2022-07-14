@@ -1,0 +1,6 @@
+Take the number as a input from the user
+Store the number in a variable
+Check the given number is power of 2 or not
+(num&&(num&(num-1))==0)
+if the above conditoin is true then print that number is power of 2
+if the above condition is false then print that number is not a power of 2
