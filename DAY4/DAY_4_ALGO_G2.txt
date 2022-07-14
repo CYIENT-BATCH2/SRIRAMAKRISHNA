@@ -1,0 +1,5 @@
+Read the two inputs from the user
+Strore the two inputs in two variables a and b
+Swap that two numbers
+a=a+b-(b=a);
+print a and b values
