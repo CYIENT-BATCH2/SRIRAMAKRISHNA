@@ -1,0 +1,5 @@
+Take the number as a input from user
+Take the bit number from user to set the bit
+Set the given bit
+result=(1<<bit number)|number
+print the result
