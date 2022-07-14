@@ -1,0 +1,4 @@
+Take data types short int,int,long int,long long int,float,char,double,long double
+Print the size of that data types
+And take different variables like int variable,float variable,char variable,double variable etc
+Print the size of that variables
