@@ -1,0 +1,2 @@
+Find the value of given expression based on precedence and associativity
+Store that result in variable k and print the variable k value
