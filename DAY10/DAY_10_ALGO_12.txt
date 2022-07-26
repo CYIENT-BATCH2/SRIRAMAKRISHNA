@@ -1,0 +1,8 @@
+12. Write a program to Implement ”Selection Sort” using Recursion for given elements (Number elements will vary, so make it as configurable item)
+
+Algorithm:
+Created a function as SelectionSort().SelectionSort() is a recursive function,which is used to sort array elements in ascending order.
+Swap the elements if arr[i] is greater than arr[j].
+In the main() function, we created an array of integers arr with 5 elements. 
+Then we sorted the the array using SelectionSort() function.
+Printing the sorted elements arr[i]
