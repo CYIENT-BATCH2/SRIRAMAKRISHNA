@@ -1,0 +1,10 @@
+7. I). Set the register SSPSTAT value such a way that bit CKE, P and S bit are cleared (0), without disturbing the other bits.
+II). Find out the value of UA, BF, SMP bits in SSPSTAT register if the value of the register is 0x55
+
+Algorithm:
+Declare a variable SSPSTAT as a register
+read the SSPSTAT register value form user
+Set the register SSPSTAT value such a way that bit CKE, P and S bit are cleared (0),without disturbing the other bits
+print the register bits
+if the value of register is equal to 0x55,find the value of UA, BF, SMP bits in SSPSTAT register
+print the value of UA, BF, SMP bits
