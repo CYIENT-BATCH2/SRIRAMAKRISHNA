@@ -1,0 +1,10 @@
+11. Write a function to store "G_Str_SteeringAngle_sint" to "G_Msg_SteeringInformation_Byte" as shown below.
+signed int G_Str_SteeringAngle_sint = -60;
+unsigned char G_Msg_SteeringInformation_Byte[3u];
+
+Algorithm:
+Declare a variable G_Str_SteeringAngle_sint and assign a value to this variable -60
+Declare a charcter array G_Msg_SteeringInformation_Byte[3u]
+Store the bits 11 to 10 of G_Str_SteeringAngle_sint in G_Msg_SteeringInformation_Byte[3u] array index 0
+Store the bits 9 to 1 of G_Str_SteeringAngle_sint in G_Msg_SteeringInformation_Byte[3u] array index 1
+Store the bits 1 and 0 of G_Str_SteeringAngle_sint in G_Msg_SteeringInformation_Byte[3u] array index 2
