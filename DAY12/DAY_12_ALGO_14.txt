@@ -1,0 +1,9 @@
+14. Find common elements in three sorted arrays, 3 array values are given as input to program.
+
+Algoritm:
+Read the size of array one ,two and three from the user
+storing the elements of array 1 ,2 and 3 in the array
+checking the elements in array 1 and array 2 if it is common
+hen it will check in the array the array 3 for the elemnt 
+if its is common the it will print the element
+again it will increment the array1 and check array2 and array3 elements and print all the elements
