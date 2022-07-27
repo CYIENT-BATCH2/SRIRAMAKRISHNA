@@ -1,0 +1,12 @@
+13. Write a program to do binary search in a sorted array. Program should take input of sorted values and search value.
+
+
+Algorithm:
+read the integer varaibale
+Read the number of elements
+Read the elements in the array and store it in array
+taking the low value high value and mid value of the array
+if the value is grater than mid value the value is on the right side of mid value or
+its on the left side of the mid value
+printing the value after finding the value
+*/
